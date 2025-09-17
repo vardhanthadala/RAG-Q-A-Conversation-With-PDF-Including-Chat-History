@@ -80,3 +80,4 @@ chromadb
 huggingface-hub
 python-dotenv
 pypdf
+ 
